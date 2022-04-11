@@ -1,0 +1,18 @@
+.disabledList{
+    
+    pointer-events:none; 
+    opacity:0.6;        
+
+}
+
+#todoList{
+    border: 10px solid yellowgreen;
+    border-radius: 1rem;
+}
+
+#mainnavbar{
+    background: rosybrown;
+}
+#body{
+    background-repeat:no-repeat;
+}
